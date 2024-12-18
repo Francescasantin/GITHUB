@@ -1,11 +1,11 @@
  name: Deploy MkDocs site to GitHub Pages
 
-on:
+ on:
   push:
     branches:
       - main
 
-jobs:
+ jobs:
   build:
     runs-on: ubuntu-latest
 
