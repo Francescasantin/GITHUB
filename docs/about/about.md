@@ -1,3 +1,3 @@
-# My cool about section
+# Cosa troverete quì?
 
-I am a software developer
+Questo è il mio sito e quì troverete informazioni su di me e la documentazione dei lavori in continuo aggiornamento
