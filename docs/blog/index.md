@@ -28,3 +28,12 @@ Tranquilli, vi continuerò a tenere aggiornati su come le cose si muoveranno e e
 <video width="640" height="360" controls>
   <source src="signore della frutta.mp4" type="video/mp4">
 </video>
+
+# GRUPPO GRAFFITISMO  
+  
+Francesca Santin  
+Samuele Follera  
+Pasquale Lappone  
+Giulia Pistilli  
+Francesco Altobelli  
+Massimiliano D'Auria  

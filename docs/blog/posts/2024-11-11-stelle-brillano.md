@@ -8,6 +8,6 @@ tags:
 
 # Il mio primo post :)!
 
-Oggi ho imparato a creare un sito di documentazione!!
+Oggi ho imparato a creare un sito di documentazione!!  
 
 # FINALMENTE CI SONO RIUSCITA ! HO ANCHE IO UN SITO !
